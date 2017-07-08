@@ -2,8 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d23962dd-6775-4947-b8c2-2fff7bc9f773" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/generate_new.sh" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/generated/2017-07-08_050904_01.mid" afterPath="$PROJECT_DIR$/best_generated/2017-07-08_050904_01.mid" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/generated/2017-07-08_050904_02.mid" afterPath="$PROJECT_DIR$/generated/2017-07-08_050904_02.mid" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/generated/2017-07-08_050904_03.mid" afterPath="$PROJECT_DIR$/generated/2017-07-08_050904_03.mid" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/generated/2017-07-08_050904_04.mid" afterPath="$PROJECT_DIR$/generated/2017-07-08_050904_04.mid" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/generated/2017-07-08_050904_05.mid" afterPath="$PROJECT_DIR$/generated/2017-07-08_050904_05.mid" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/generated/2017-07-08_050904_06.mid" afterPath="$PROJECT_DIR$/generated/2017-07-08_050904_06.mid" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/generated/2017-07-08_050904_07.mid" afterPath="$PROJECT_DIR$/generated/2017-07-08_050904_07.mid" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/generated/2017-07-08_050904_08.mid" afterPath="$PROJECT_DIR$/generated/2017-07-08_050904_08.mid" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/generated/2017-07-08_050904_09.mid" afterPath="$PROJECT_DIR$/generated/2017-07-08_050904_09.mid" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/generated/2017-07-08_050904_10.mid" afterPath="$PROJECT_DIR$/generated/2017-07-08_050904_10.mid" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/keyboardnotechart.gif" afterPath="$PROJECT_DIR$/keyboardnotechart.gif" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LICENSE" afterPath="$PROJECT_DIR$/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/create_dataset.sh" afterPath="$PROJECT_DIR$/create_dataset.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/generate_new.sh" afterPath="$PROJECT_DIR$/generate_new.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/generate_seq.sh" afterPath="$PROJECT_DIR$/generate_seq.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sequence.tfrecord" afterPath="$PROJECT_DIR$/sequence.tfrecord" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train_rnn.sh" afterPath="$PROJECT_DIR$/train_rnn.sh" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,13 +38,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="keyboardnotechart.gif" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/keyboardnotechart.gif">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="generate_seq.sh" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/generate_seq.sh">
           <provider selected="true" editor-type-id="text-editor">
@@ -41,28 +51,88 @@
       <file leaf-file-name="train_rnn.sh" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/train_rnn.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+            <state relative-caret-position="120">
+              <caret line="5" column="43" lean-forward="false" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="generate_new.sh" pinned="false" current-in-tab="true">
+      <file leaf-file-name="generate_new.sh" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/generate_new.sh">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="192">
-              <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="create_dataset.sh" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/create_dataset.sh">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/generated/README.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="48">
-              <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+              <caret line="2" column="40" lean-forward="false" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/generated2/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="2" column="24" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="58" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/generated3/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="2" column="145" lean-forward="false" selection-start-line="2" selection-start-column="145" selection-end-line="2" selection-end-column="145" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/generated4/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MIDI_Repo/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="2" column="43" lean-forward="true" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/best_generated/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -89,6 +159,13 @@
         <option value="$PROJECT_DIR$/create_dataset.sh" />
         <option value="$PROJECT_DIR$/train_rnn.sh" />
         <option value="$PROJECT_DIR$/generate_new.sh" />
+        <option value="$PROJECT_DIR$/generated/README.md" />
+        <option value="$PROJECT_DIR$/generated2/README.md" />
+        <option value="$PROJECT_DIR$/generated3/README.md" />
+        <option value="$PROJECT_DIR$/generated4/README.md" />
+        <option value="$PROJECT_DIR$/MIDI_Repo/README.md" />
+        <option value="$PROJECT_DIR$/best_generated/README.md" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -99,8 +176,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="y" value="25" />
     <option name="width" value="1920" />
-    <option name="height" value="1080" />
+    <option name="height" value="1055" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -129,20 +207,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="KygoMelodyGenerator" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="KygoMelodyGenerator" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MIDI_Repo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -155,7 +219,12 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/best_generated" />
+      <recent name="$PROJECT_DIR$/generated2" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/MIDI_Repo" />
     </key>
   </component>
@@ -385,8 +454,8 @@
       <list size="4">
         <item index="0" class="java.lang.String" itemvalue="Bash.generate_new.sh" />
         <item index="1" class="java.lang.String" itemvalue="Bash.train_rnn.sh" />
-        <item index="2" class="java.lang.String" itemvalue="Bash.create_dataset.sh" />
-        <item index="3" class="java.lang.String" itemvalue="Bash.generate_seq.sh" />
+        <item index="2" class="java.lang.String" itemvalue="Bash.generate_seq.sh" />
+        <item index="3" class="java.lang.String" itemvalue="Bash.create_dataset.sh" />
       </list>
     </recent_temporary>
   </component>
@@ -404,14 +473,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
+    <frame x="0" y="25" width="1920" height="1055" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2524013" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32827735" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -492,16 +561,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/create_dataset.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        <state relative-caret-position="120">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/train_rnn.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        <state relative-caret-position="120">
+          <caret line="5" column="43" lean-forward="false" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
           <folding />
         </state>
       </provider>
@@ -517,7 +586,63 @@
     <entry file="file://$PROJECT_DIR$/generate_new.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
-          <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generated/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="40" lean-forward="false" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generated2/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="24" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generated3/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="145" lean-forward="false" selection-start-line="2" selection-start-column="145" selection-end-line="2" selection-end-column="145" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generated4/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MIDI_Repo/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="43" lean-forward="true" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/best_generated/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
           <folding />
         </state>
       </provider>
