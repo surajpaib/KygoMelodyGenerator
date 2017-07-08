@@ -1,27 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d23962dd-6775-4947-b8c2-2fff7bc9f773" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generated/2017-07-08_050904_01.mid" afterPath="$PROJECT_DIR$/best_generated/2017-07-08_050904_01.mid" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/generated/2017-07-08_050904_02.mid" afterPath="$PROJECT_DIR$/generated/2017-07-08_050904_02.mid" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/generated/2017-07-08_050904_03.mid" afterPath="$PROJECT_DIR$/generated/2017-07-08_050904_03.mid" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/generated/2017-07-08_050904_04.mid" afterPath="$PROJECT_DIR$/generated/2017-07-08_050904_04.mid" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/generated/2017-07-08_050904_05.mid" afterPath="$PROJECT_DIR$/generated/2017-07-08_050904_05.mid" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/generated/2017-07-08_050904_06.mid" afterPath="$PROJECT_DIR$/generated/2017-07-08_050904_06.mid" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/generated/2017-07-08_050904_07.mid" afterPath="$PROJECT_DIR$/generated/2017-07-08_050904_07.mid" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/generated/2017-07-08_050904_08.mid" afterPath="$PROJECT_DIR$/generated/2017-07-08_050904_08.mid" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/generated/2017-07-08_050904_09.mid" afterPath="$PROJECT_DIR$/generated/2017-07-08_050904_09.mid" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/generated/2017-07-08_050904_10.mid" afterPath="$PROJECT_DIR$/generated/2017-07-08_050904_10.mid" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/keyboardnotechart.gif" afterPath="$PROJECT_DIR$/keyboardnotechart.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LICENSE" afterPath="$PROJECT_DIR$/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/create_dataset.sh" afterPath="$PROJECT_DIR$/create_dataset.sh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/generate_new.sh" afterPath="$PROJECT_DIR$/generate_new.sh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/generate_seq.sh" afterPath="$PROJECT_DIR$/generate_seq.sh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sequence.tfrecord" afterPath="$PROJECT_DIR$/sequence.tfrecord" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train_rnn.sh" afterPath="$PROJECT_DIR$/train_rnn.sh" />
-    </list>
+    <list default="true" id="d23962dd-6775-4947-b8c2-2fff7bc9f773" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -474,9 +454,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1920" height="1055" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2524013" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2524013" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
